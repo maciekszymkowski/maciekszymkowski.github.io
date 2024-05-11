@@ -1,12 +1,14 @@
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+Right now, he is finishing his PhD at Bialystok University of Technology in Poland. He is also research assistant at that University (from 2018). Previously he was with Warsaw University of Technology (2021-2022) and AGH in Cracow (2021-2022). He gain his experiences also as a researcher in diversified projects and software developer/engineer in different companies. He was also with Łukasiewicz Research Network - Poznan Institute of Technology (2022-2024).
 
 #### Email
-sli[at]cumt.edu.cn
+m.szymkowski[at]pb.edu.pl
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2020.01 - present, PhD, Computer Science, Faculty of Computer Science, Bialystok University of Technology, Poland.
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2017.03 - 2018.06, M.Sc. B.Sc. Eng., Computer Science, Faculty of Computer Science, Bialystok University of Technology, Poland
+
+2013.10 - 2017.02, B.Sc. Eng., Computer Science, Faculty of Computer Science, Bialystok University of Technology, Poland
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence, AI in medicine, biometrics, Large Vision Models, Computer Vision
