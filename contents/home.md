@@ -6,7 +6,7 @@ m.szymkowski[at]pb.edu.pl
 szymkowskimack[at]gmail.com
 
 #### Recent workplaces
-2024.06 - now - Hemolens Diagnostics, https://hemolens.com, Wrocław, Poland
+2024.06 - now - Hemolens Diagnostics Sp. z o. o., Senior AI Engineer, https://hemolens.com, Wrocław, Poland
 
 2024.06 - now - Babymedtech Sp. z o. o., Chief Technology Officer, https://www.bobomed.com, Warsaw, Poland
 
