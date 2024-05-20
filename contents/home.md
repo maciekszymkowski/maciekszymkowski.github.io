@@ -1,4 +1,4 @@
-Right now, he is finishing his PhD at Bialystok University of Technology in Poland. He is also research assistant at that University (from 2018). Previously he was with Warsaw University of Technology (2021-2022) and AGH in Cracow (2021-2022). He gain his experiences also as a researcher in diversified projects and software developer/engineer in different companies. He was also with Łukasiewicz Research Network - Poznan Institute of Technology (2022-2024).
+Right now, he is finishing his PhD at Bialystok University of Technology in Poland. He is also research assistant at that University (from 2018). Previously he was with Warsaw University of Technology (2021-2022) and AGH in Cracow (2021-2022). He gained his experiences also as a researcher in diversified projects and software developer/engineer in different companies. He was also with Łukasiewicz Research Network - Poznan Institute of Technology (2022-2024).
 
 #### Email
 m.szymkowski[at]pb.edu.pl
