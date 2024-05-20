@@ -2,6 +2,11 @@ Right now, he is finishing his PhD at Bialystok University of Technology in Pola
 
 #### Email
 m.szymkowski[at]pb.edu.pl
+szymkowskimack@gmail.com
+
+#### Recent workplaces
+2024.06 - now - Hemolens Diagnostics, https://hemolens.com, Wrocław, Poland
+2018.10 - now - Białystok University of Technology, Faculty of Computer Science, Research Assistant, https://wi.pb.edu.pl, Białystok, Poland 
 
 #### Education
 2020.01 - present, PhD, Computer Science, Faculty of Computer Science, Bialystok University of Technology, Poland.
