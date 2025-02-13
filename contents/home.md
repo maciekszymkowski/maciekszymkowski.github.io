@@ -10,7 +10,7 @@ m.szymkowski[at]pb.edu.pl
 szymkowskimack[at]gmail.com
 
 #### Recent workplaces
-2025.02 - now - Aplikacje Krytyczne Sp. z o. o., R&D Engineer, https://https://www.akmf.pl, Warsaw, Poland
+2025.02 - now - Aplikacje Krytyczne Sp. z o. o., R&D Engineer, https://www.akmf.pl, Warsaw, Poland
 
 2018.10 - now - Białystok University of Technology, Faculty of Computer Science, Research Assistant, https://wi.pb.edu.pl, Białystok, Poland 
 
