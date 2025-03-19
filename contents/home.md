@@ -1,7 +1,5 @@
 Right now, he is finishing his PhD at Bialystok University of Technology in Poland. He is also Research Assistant at that University (from 2018), Faculty of Computer Science where he is a member of Professor Khalid Saeed's Biometrics lab. Previously he was with Warsaw University of Technology (2021-2022) and AGH in Cracow (2021-2022). He gained his experiences also as a researcher in diversified projects and software developer/engineer in different companies (e.g., SoftServe, Symmetra, Transition Technologies, Hemolens Diagnostics). He was also with Łukasiewicz Research Network - Poznan Institute of Technology (2022-2024) where he was a Head of AI Development section. 
 
-From February 2025, he is working with Aplikacje Krytyczne Sp. z o. o. as R&D Engineer.
-
 He also was a CEO of a startup called BikeHud Ltd (2020 - 2022). The main project of that company was connected with specialized helmet for bikers. It's aim was to detect obstacles and inform user about them. Moreover, it was possible to show all information (related to cycling time, calories... etc.) within user's glasses. It was like a little HUD display for bikers.
 
 #### Email
@@ -10,7 +8,6 @@ m.szymkowski[at]pb.edu.pl
 szymkowskimack[at]gmail.com
 
 #### Recent workplaces
-2025.02 - now - Aplikacje Krytyczne Sp. z o. o., R&D Engineer, https://www.akmf.pl, Warsaw, Poland
 
 2018.10 - now - Białystok University of Technology, Faculty of Computer Science, Research Assistant, https://wi.pb.edu.pl, Białystok, Poland 
 

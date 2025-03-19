@@ -76,6 +76,8 @@
 
 - <strong>Maciej Szymkowski</strong>, Jakub Gołąb, Kacper Perz, Bartosz Poniewierka: “Automatic detection of contraction direction in cardiomyocytes”, 5th Polish Conference on Artificial Intelligence, PP-RAI 2024, 18-20.04.2024, Warsaw, Poland, Proceedings
 
-- <strong>Maciej Szymkowski</strong>, Jakub Gołąb, Kacper Perz, Bartosz Jura: “Mathematical modelling for automatic cell contractions detection and their directions in artificially grown human cardiomyocytes”, K. Saeed, J. Dvorsky (Eds.) – “Computer Information Systems and Industrial Management applications. 23rd International Conference, CISIM 2024, Białystok, September 27-29, 2024, Proceedings”, <strong>Accepted</strong>
+- <strong>Maciej Szymkowski</strong>, Jakub Gołąb, Kacper Perz, Bartosz Jura: “Mathematical modelling for automatic cell contractions detection and their directions in artificially grown human cardiomyocytes”, K. Saeed, J. Dvorsky (Eds.) – “Computer Information Systems and Industrial Management applications. 23rd International Conference, CISIM 2024, Białystok, September 27-29, 2024, Proceedings”
 
-- Bartosz Jura, <strong>Maciej Szymkowski</strong>, Kacper Perz: “Calcium activity in a myocardium-on-chip model analysed with computer vision techniques for assessment of tissue contractile properties”, 32nd International Conference on Information System Development, ISD 2024, 26-28.08.2024, Gdańsk, Poland, Proceedings, <strong>Accepted</strong>
+- Bartosz Jura, <strong>Maciej Szymkowski</strong>, Kacper Perz: “Calcium activity in a myocardium-on-chip model analysed with computer vision techniques for assessment of tissue contractile properties”, 32nd International Conference on Information System Development, ISD 2024, 26-28.08.2024, Gdańsk, Poland, Proceedings
+
+- <strong>Maciej Szymkowski</strong>: “Cell segmentation in spatial recordings of single EHT's cardiac cycle using shallow 2D U-Net trained with Focal loss”, 6th Polish Conference on Artificial Intelligence, PP-RAI 2025, 07-09.04.2025, Katowice, Poland, Springer Lecture Notes in Networks and Systems, Proceedings, <strong>Accepted</strong>
